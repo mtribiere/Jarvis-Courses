@@ -2,7 +2,7 @@
 
 # Jarvis-Courses
 
-Un plugin pour l'assistant vocal OpenJarvis
+Un plugin pour l'assistant vocal OpenJarvis</p>
 Ce plugin permet de gérer une liste de courses. Mais peut aussi l'envoyer sur un service de stockage en ligne anonyme. Il peut par la suite afficher un QRcode pour le retrouver
 
 # Installation
