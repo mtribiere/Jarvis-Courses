@@ -1,10 +1,11 @@
 #!/bin/bash
 
+## Fonction pour l'upload
 jv_pg_lc_upload()
 {
 
 # Recupere le chemin du fichier
-local path=$(pwd)/plugins_installed/jarvis-courses
+local path=$(pwd)/plugins_installed/Jarvis-Courses
 
 # Uploader et voir le resultat
 
@@ -31,11 +32,12 @@ fi
 
 }
 
+## Fonction pour afficher la liste
 jv_pg_lc_print()
 {
 
 # Recupere le chemin du fichier
-local path=$(pwd)/plugins_installed/jarvis-courses
+local path=$(pwd)/plugins_installed/Jarvis-Courses
 
 # Verfier si la liste est vide
 
