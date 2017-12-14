@@ -1,5 +1,5 @@
 *AJOUTE (*) A *==say "Ajout (1) à la liste de courses" && echo "(1)">> $(pwd)/plugins_installed/Jarvis-Courses/liste.txt
-*QUEL*LISTE*|*QUOI*LISTE*|*CONTENU*LISTE*== jv_pg_lc_print
+*QUEL*LISTE*|*QUOI*LISTE*|*CONT*LISTE*== jv_pg_lc_print
 *ENVOI*LISTE*|*UPLOAD*LISTE*==say "Voulez-vous vraiment transférer votre liste de courses ?"
 >*OUI*|*CONFIRME*==say "Très bien, je l'envoie..." && jv_pg_lc_upload
 >*NON*|*REFUSE*==say "Très bien, l'envoie est annulé"
