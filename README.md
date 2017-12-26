@@ -9,4 +9,5 @@ Ce plugin permet de gérer une liste de courses. Mais peut aussi l'envoyer sur u
 ```
 
  # Auteur
- [Jaaber]
+ [Jaaber]<br>
+ <i>Merci à QuentinCG</i>
