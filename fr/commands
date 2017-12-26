@@ -5,5 +5,5 @@
 >*NON*|*REFUSE*==say "Très bien, l'envoie est annulé"
 *SUPPRIME*LISTE*==say "Voulez-vous vraiment supprimer le contenu de la liste de courses?"
 >*OUI*|*CONFIRME*==say "Très bien, je la supprime" && echo "" > $(pwd)/plugins_installed/Jarvis-Courses/liste.txt 
->*NON*|*REFUSE*==say "Très je ne la supprime pas" 
+>*NON*|*REFUSE*==say "Très bien, je ne la supprime pas" 
 
